@@ -1,8 +1,9 @@
 # TheOffice
 The Office NLP Analysis
 
-Python Code And Tableau Dashboard link : https://public.tableau.com/app/profile/ines.dimassi/viz/Thatswhatshesaid_17352203220580/Dashboard4
-
+Python Code And Tableau Dashboard 
+Tableau Dashboard link : https://public.tableau.com/app/profile/ines.dimassi/viz/Thatswhatshesaid_17352203220580/Dashboard4
+Tableau Dashboard link : https://public.tableau.com/app/profile/ines.dimassi/viz/TheOffice_17347341786480/Dashboard1
 
 <img width="1455" alt="Screenshot 2024-12-28 at 14 04 30" src="https://github.com/user-attachments/assets/37704fe9-cccb-40ab-bb2d-39693a877e42" />
 
